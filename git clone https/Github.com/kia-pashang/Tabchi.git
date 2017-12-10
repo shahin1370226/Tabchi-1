@@ -1,0 +1,4 @@
+git clone https://Github.com/kia-pashang/Tabchi.git
+cd Tabchi
+chmod +x install.sh
+./install.sh
